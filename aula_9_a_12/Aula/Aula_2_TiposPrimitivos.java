@@ -1,4 +1,4 @@
-package aula_9_a_12;
+package aula_9_a_12.Aula;
 public class Aula_2_TiposPrimitivos {
     public static void main(String[] args) {        // psvm     !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
         int idade = 10;                             // Exemplo de variavel

@@ -1,7 +1,7 @@
-package aula_9_a_12;
+package aula_9_a_12.Aula;
 
-public class Exercicio {
-    public static void main(String[] arsg) {
+public class ExercicioAula {
+    public static void main(String[] args) {
         String nome = "Vinínicius";
         String endereço = "Bacacheri";
         double salario = 5000.00D;
