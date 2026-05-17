@@ -6,7 +6,7 @@ public class Aula_21 {
         if(idade < 15){
             categoria = "Categoria Infantil";
         } else if(idade >= 15 && idade < 18){
-            categoria = "Categoria Juvenil";
+            categoria = "Categoria Juvenior";
         } else{
             categoria = "Categoria Adulto";
         }
