@@ -1,6 +1,6 @@
 public class Aula_Exercicio {
     public static void main(String[] args){
-        double salarioAnual = 45_000;
+        double salarioAnual = 70_000;
         double imposto;
         if(salarioAnual < 34_712){
             imposto = salarioAnual * 0.097;
